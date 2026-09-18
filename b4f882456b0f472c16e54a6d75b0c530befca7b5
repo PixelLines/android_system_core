@@ -33,6 +33,24 @@
       "message": "Perhaps we should have a better commit message and description than generic one.",
       "revId": "b4f882456b0f472c16e54a6d75b0c530befca7b5",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "71de5c04_eaad1bda",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000036
+      },
+      "writtenOn": "2026-09-18T09:46:22Z",
+      "side": 1,
+      "message": "we shouldn\u0027t merge it\nhttps://review.lineageos.org/c/LineageOS/android_system_core/+/490876/comments/be5160cc_6ec47478",
+      "parentUuid": "5d10246d_8481e536",
+      "revId": "b4f882456b0f472c16e54a6d75b0c530befca7b5",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
